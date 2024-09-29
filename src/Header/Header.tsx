@@ -14,7 +14,7 @@ function Header() {
             <nav className="flex justify-center items-center gap-4">
                 <Link className="border transition border-slate-900 rounded py-2 px-4 hover:bg-slate-900 hover:text-white" to={"/"}>Inicio</Link>
                 <Link className="border transition border-slate-900 rounded py-2 px-4 hover:bg-slate-900 hover:text-white" to={"/Contador"}>Contador</Link>
-                <Link className="border transition border-slate-900 rounded py-2 px-4 hover:bg-slate-900 hover:text-white" to={"/Tarjeta"}>Tarjeta</Link>
+                <Link className="border transition border-slate-900 rounded py-2 px-4 hover:bg-slate-900 hover:text-white" to={"/Buscador"}>Buscador</Link>
             </nav>
         </header>
     )
